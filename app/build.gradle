@@ -22,4 +22,6 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:21.0.3'
+    //idk how this works just yet. See here: https://github.com/intuit/sdp
+    //compile 'com.intuit.sdp:sdp-android:1.0.0'
 }
